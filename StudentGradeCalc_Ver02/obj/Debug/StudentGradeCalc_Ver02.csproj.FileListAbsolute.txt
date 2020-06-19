@@ -1,0 +1,10 @@
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\obj\Debug\StudentGradeCalc_Ver02.csprojAssemblyReference.cache
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\obj\Debug\StudentGradeCalc_Ver02.Properties.Resources.resources
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\obj\Debug\StudentGradeCalc_Ver02.csproj.GenerateResource.cache
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\obj\Debug\StudentGradeCalc_Ver02.csproj.CoreCompileInputs.cache
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\bin\Debug\StudentGradeCalc_Ver02.exe.config
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\bin\Debug\StudentGradeCalc_Ver02.exe
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\bin\Debug\StudentGradeCalc_Ver02.pdb
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\obj\Debug\StudentGradeCalc_Ver02.Form1.resources
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\obj\Debug\StudentGradeCalc_Ver02.exe
+C:\Users\c_wad\OneDrive\Projects\StudentGradeCalc_Ver02\StudentGradeCalc_Ver02\obj\Debug\StudentGradeCalc_Ver02.pdb
